@@ -1,0 +1,30 @@
+## 🎮 Try the Demo
+
+Experience the power of smart glasses technology firsthand! Our interactive demo allows you to test the core functionalities of the smart glasses system.
+
+### What We've Completed
+
+This demo showcases a fully functional smart glasses interface with the following implemented features:
+
+- **Augmented Reality Overlays**: Real-time data visualization through AR glasses
+- **Gesture Recognition**: Intuitive controls via hand gestures and eye tracking
+- **Live Data Streaming**: Real-time synchronization of environmental data
+- **AI-Powered Insights**: Machine learning models providing contextual information
+- **Cross-Device Integration**: Seamless connectivity between glasses, mobile, and desktop
+
+### Backend Integration
+
+We've integrated a robust backend system that powers the demo:
+
+- **Deployed Model Execution**: The backend runs pre-trained AI models optimized for edge computing
+- **Real-time Processing**: Low-latency data processing for instant user feedback
+- **API Endpoints**: RESTful APIs for model inference and data retrieval
+- **Scalable Architecture**: Cloud-ready infrastructure supporting multiple concurrent users
+
+Click the **"Try Demo"** button in the application to launch an interactive session where you can:
+- Experience AR overlays in action
+- Test gesture-based controls
+- View live AI insights
+- Interact with the deployed model through the backend
+
+The demo connects to our backend services to run the deployed model, providing a realistic simulation of the smart glasses experience.

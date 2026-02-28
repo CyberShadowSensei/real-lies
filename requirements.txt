@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic
+httpx
+beautifulsoup4
+opencv-python
+moviepy
+python-dotenv
+groq
+openai # For Groq Whisper API (often uses openai client)
+loguru # For better logging
+pyjwt # If any authentication/token handling is needed
+tenacity # For retry logic (e.g., API calls)
+aiofiles # For async file operations (e.g. multipart uploads)
