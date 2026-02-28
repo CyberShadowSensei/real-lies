@@ -1,0 +1,52 @@
+# TruthLens Git Ignore
+
+# Project Documentation & Internal Logs
+GEMINI.md
+project_log.md
+truthlens_development_plan.md
+TruthLens_PRD.pdf
+implementation_plan.md.resolved
+
+# Environment & Secrets (CRITICAL)
+.env
+.env.local
+.env.*.local
+escape da vinci/.env
+
+# Python Build & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+.eslintcache
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# TruthLens Temporary Processing Files
+temp_*
+backend/temp_*
