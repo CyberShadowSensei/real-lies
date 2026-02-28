@@ -11,7 +11,13 @@ implementation_plan.md.resolved
 .env
 .env.local
 .env.*.local
-escape da vinci/.env
+
+# Large Media Files (Exceeds GitHub Limits)
+*.mp4
+*.MOV
+*.avi
+real video/
+fake video/
 
 # Python Build & Environment
 __pycache__/
