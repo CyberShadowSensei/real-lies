@@ -95,3 +95,5 @@ cd frontend
 npm install
 npm run dev
 ```
+## 🏆 Hackathon Achievement
+TruthLens was awarded **Fourth Place** at the **CGC Mohali Escape Da Vinci Hackathon 2026**, recognizing its innovative approach to multimodal misinformation detection, technical execution, and scalable system architecture.
